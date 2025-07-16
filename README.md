@@ -12,5 +12,5 @@
 	7. Car brand (categorical: encoded as a number)
 	8. Fuel type (categorical: encoded as a number)
 	9. Transmission type (categorical: encoded as a number)
-10. Whether the car has a sunroof (binary: 1 or 0) 
+       10. Whether the car has a sunroof (binary: 1 or 0) 
 
